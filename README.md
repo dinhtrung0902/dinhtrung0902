@@ -1,10 +1,10 @@
 # 🐧 Nguyễn Đình Trung
 
-**`Backend Developer`**
+**`Java Developer`**
 
 
 
-![anhgifcute](https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif)
+![anhgifcute](https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif)             
 
 [![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 
