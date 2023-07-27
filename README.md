@@ -1,13 +1,8 @@
 # 🐧 Nguyễn Đình Trung
 
-**`Java Developer`**
-
-
-
-![anhgifcute](https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif)             
+**`Java Developer`**       
 
 [![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-
 
 
 #### 📫 Contact
