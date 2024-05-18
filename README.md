@@ -1,4 +1,4 @@
-# 🐧 Nguyễn Đình Trung      
+# Nguyễn Đình Trung      
 
 [![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 
