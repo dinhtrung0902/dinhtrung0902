@@ -9,7 +9,7 @@
 
 ### :zap: Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dinhtrung0902?theme=unicorn&extension=activity)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dinhtrung0902?theme=unicorn&extension=activity)](https://leetcode.com/u/dinhtrung0902)
 
 ### :zap: Github Stats
 
