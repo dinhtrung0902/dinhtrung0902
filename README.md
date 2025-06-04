@@ -1,7 +1,7 @@
 # Nguyễn Đình Trung      
 
-[![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-
+[![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logoColor=white)](https://www.java.com/)
+[![](https://img.shields.io/badge/Python-3776AB?&style=flat-square&logoColor=white)](https://www.python.org/)
 
 #### 📫 Contact
 
@@ -14,8 +14,4 @@
 ### :zap: Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dinhtrung0902&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://raw.githubusercontent.com/dinhtrung0902/my-stats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com//my-stats/output/generated/languages.svg)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtrung0902&layout=compact&hide_border=true&langs_count=6)
