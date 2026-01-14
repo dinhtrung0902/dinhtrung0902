@@ -9,8 +9,8 @@
 
 ### :zap: Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dinhtrung0902&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtrung0902&layout=compact&hide_border=true&langs_count=6)
+[![Github stats](https://github-readme-stats-fast.vercel.app/api?username=dinhtrung0902)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dinhtrung0902&layout=compact&hide_border=true&langs_count=6)
 
 ### :zap: Leetcode Stats
 
